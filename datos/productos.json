@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hamburguesa Clasica",
+    "precio": 5.50,
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "nombre": "Papas Fritas",
+    "precio": 2.50,
+    "stock": 35
+  },
+  {
+    "id": 3,
+    "nombre": "Gaseosa 500ml",
+    "precio": 1.25,
+    "stock": 50
+  }
+]
